@@ -1,3 +1,7 @@
+Tutorial: https://www.youtube.com/watch?v=WQMTiECkplI&list=PLfBNcC6oV_0pStAcuLj4Q-e4SpY2fmn4b&index=2
+Biblioteca de Machine Learning: https://stanfordnlp.github.io/CoreNLP/
+https://github.com/stanfordnlp/CoreNLP
+
 # DIO International Acceleration
 
 ## Kafka Integration with Spring Boot
